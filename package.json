@@ -1,0 +1,13 @@
+{
+  "name": "remove-whitespaces",
+  "version": "0.0.0",
+  "description": "For people who don't sed",
+  "main": "remove-whitespace.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "tape": "~2.5.0"
+  }
+}
