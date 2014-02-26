@@ -4,7 +4,7 @@
   "description": "For people who don't sed",
   "main": "remove-whitespace.js",
   "scripts": {
-    "test": "node test.js"
+    "test": "node test/test.js"
   },
   "license": "BSD-2-Clause",
   "dependencies": {
